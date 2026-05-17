@@ -1,5 +1,6 @@
-## License
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
+## License
 Copyright (C) 2026 Roku Ecos
 
 This project is licensed under the GNU General Public License v3.0.
